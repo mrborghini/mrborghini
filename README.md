@@ -1,5 +1,7 @@
 ## Hi, I'm mrborghini
 
+My name is Jan, but I'm also known as Lambo or mrborghini.
+
 This is my personal account for my passion and hobby projects!
 
 ```
