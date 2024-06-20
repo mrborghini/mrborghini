@@ -18,6 +18,8 @@ Here are some facts about myself:
 - I love fishing when it is good weather
 - I like bike rides when it is sunny
 
+Here is my [social media](https://mrborghini.github.io/socials) if you want to see more of me
+
 ### Knowledge
 ```json
 {
