@@ -13,7 +13,7 @@
     "dislikedProgrammingLanguages": [
         {
             "language": "Lua",
-            "reason": "Replaces brackets with words"
+            "reason": "Replaces curly brackets with words"
         },
         {
             "language": "PHP",

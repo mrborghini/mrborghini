@@ -39,7 +39,7 @@ Here is my [social media](https://mrborghini.github.io/socials) if you want to s
     "dislikedProgrammingLanguages": [
         {
             "language": "Lua",
-            "reason": "Replaces brackets with words"
+            "reason": "Replaces curly brackets with words"
         },
         {
             "language": "PHP",
