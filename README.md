@@ -63,6 +63,7 @@ Here is my [social media](https://mrborghini.github.io/socials) if you want to s
     "jsFrameworksIKnow": [
         "Angular",
         "Bun",
+        "Deno",
         "Express",
         "NextJS",
         "NodeJS",

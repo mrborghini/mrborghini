@@ -37,6 +37,7 @@
     "jsFrameworksIKnow": [
         "Angular",
         "Bun",
+        "Deno",
         "Express",
         "NextJS",
         "NodeJS",
