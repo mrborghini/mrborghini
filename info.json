@@ -34,13 +34,15 @@
         "Bootstrap",
         "Skeleton"
     ],
-    "jsFrameworksIKnow": [
-        "Angular",
+    "jsRuntimesIKnow": [
         "Bun",
         "Deno",
+        "NodeJS"
+    ],
+    "jsFrameworksIKnow": [
+        "Angular",
         "Express",
         "NextJS",
-        "NodeJS",
         "React",
         "Vue"
     ]

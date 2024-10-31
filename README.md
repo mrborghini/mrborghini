@@ -60,13 +60,15 @@ Here is my [social media](https://mrborghini.github.io/socials) if you want to s
         "Bootstrap",
         "Skeleton"
     ],
-    "jsFrameworksIKnow": [
-        "Angular",
+    "jsRuntimesIKnow": [
         "Bun",
         "Deno",
+        "NodeJS"
+    ],
+    "jsFrameworksIKnow": [
+        "Angular",
         "Express",
         "NextJS",
-        "NodeJS",
         "React",
         "Vue"
     ]
